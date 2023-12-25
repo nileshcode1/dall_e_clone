@@ -1,6 +1,11 @@
 # DALL-E Clone MERN Project
 
+![Screenshot 2023-12-25 143314](https://github.com/nileshcode1/dall_e_clone/assets/77544758/e465848b-f8b5-4b81-86b8-e876cf8c2e3d)
+![Screenshot 2023-12-25 143349](https://github.com/nileshcode1/dall_e_clone/assets/77544758/663c3f6c-dbae-47af-b13e-b93c533b4ddf)
+
+
 Welcome to the DALL-E Clone MERN project! This project is inspired by the OpenAI model DALL-E and allows users to generate imaginative images using DALL-E AI and share them with the community.
+
 
 ## Introduction
 
